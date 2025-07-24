@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: web2
+owner: esclerofilo
+package: .
